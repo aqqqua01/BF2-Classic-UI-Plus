@@ -1,0 +1,20 @@
+# Build outputs & binaries
+build/
+release/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.dll
+*.zip
+
+# Runtime generated files
+bf2_uifix.ini
+bf2_uifix.log
+
+# IDE / OS
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
